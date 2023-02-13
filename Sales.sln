@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.API", "Sales.API\Sale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.WEB", "Sales.WEB\Sales.WEB.csproj", "{BD9EF2CE-765C-4DAD-B09E-D344BE4BBA96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Mobile", "Sales.Mobile\Sales.Mobile.csproj", "{749CFDBA-0CFB-4347-B150-D196112C1454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,12 @@ Global
 		{BD9EF2CE-765C-4DAD-B09E-D344BE4BBA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9EF2CE-765C-4DAD-B09E-D344BE4BBA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9EF2CE-765C-4DAD-B09E-D344BE4BBA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749CFDBA-0CFB-4347-B150-D196112C1454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749CFDBA-0CFB-4347-B150-D196112C1454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749CFDBA-0CFB-4347-B150-D196112C1454}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{749CFDBA-0CFB-4347-B150-D196112C1454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749CFDBA-0CFB-4347-B150-D196112C1454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749CFDBA-0CFB-4347-B150-D196112C1454}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
